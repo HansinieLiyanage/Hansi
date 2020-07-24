@@ -3,3 +3,4 @@ Welcome to SLIIT
 Computing faculty
 Business faculty
 Engineering faculty
+Humanities & Sciences
